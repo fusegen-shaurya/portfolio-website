@@ -8,6 +8,6 @@ This is a simple HTML & CSS based personal portfolio website built as a demo pro
 - About Me Section
 - Projects Showcase
 - Contact Info
-
+FOR Sale! buy at " https://fusegenshaurya.gumroad.com/l/jaxzwa "
 ## Created by Shaurya
 Founder (Future) of FUSEGEN CORP
