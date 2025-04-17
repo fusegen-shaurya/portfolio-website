@@ -1,3 +1,10 @@
+# 🚀 Shaurya's Products
+
+## 1. Resume Website Template (HTML + CSS)
+🔗 [Buy Now on Gumroad – ₹149](https://fusegenshaurya.gumroad.com/l/hzbibm)
+
+## 2. Portfolio Website Template (HTML + CSS)
+🔗 [Buy Now on Gumroad – ₹100](https://fusegenshaurya.gumroad.com/l/jaxzwa)
 
 # Shaurya's Portfolio Website
 
