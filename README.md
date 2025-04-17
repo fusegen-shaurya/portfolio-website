@@ -10,5 +10,6 @@ This is a simple HTML & CSS based personal portfolio website built as a demo pro
 - Contact Info
 
 #FOR Sale! buy at " https://fusegenshaurya.gumroad.com/l/jaxzwa "
+#for ₹100+ or $1.17
 ## Created by Shaurya
 Founder (Future) of FUSEGEN CORP
