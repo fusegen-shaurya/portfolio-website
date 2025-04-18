@@ -6,6 +6,9 @@
 ## 2. Portfolio Website Template (HTML + CSS)
 🔗 [Buy Now on Gumroad – ₹100](https://fusegenshaurya.gumroad.com/l/jaxzwa)
 
+## 3. BMI Calculator- (python+tkinter)
+🔗 [Buy Now on Gumroad – ₹100]( https://fusegenshaurya.gumroad.com/l/taklps)
+
 # Shaurya's Portfolio Website
 
 This is a simple HTML & CSS based personal portfolio website built as a demo project for Fiverr and GitHub freelancing.
