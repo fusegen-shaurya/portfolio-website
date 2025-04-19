@@ -9,6 +9,9 @@
 ## 3. BMI Calculator- (python+tkinter)
 🔗 [Buy Now on Gumroad – ₹100]( https://fusegenshaurya.gumroad.com/l/taklps)
 
+## 4. Responsive Resume Website Template – Built with HTML & CSS
+🔗 [Buy Now on Gumroad - ₹99](https://fusegenshaurya.gumroad.com/l/resumehtml)
+
 # Shaurya's Portfolio Website
 
 This is a simple HTML & CSS based personal portfolio website built as a demo project for Fiverr and GitHub freelancing.
